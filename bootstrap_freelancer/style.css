@@ -9,12 +9,6 @@
     border: 1px solid white;
 }
 
-.debug .my-container .col-12 {
-    height: 600px;
-}
-
-
-main .my-container {
-    max-width: 615px;
-    margin: 0 auto;
+.debug .my-container .col-5 {
+    height: 300px;
 }
