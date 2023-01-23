@@ -18,20 +18,8 @@ img {
     text-decoration: none;
 }
 
-/* .debug .container {
-    background-color: salmon;
-    padding: 20px;
-}
-
-[class^="col"] { 
-    background-color: darkblue;
-    padding: 20px;
-    border: 1px solid white;
-} */
-
 main .my-container {
-    max-width: 980px;
-    margin: 0 auto;
+    padding: 0 4rem;
 }
 
 :root {
