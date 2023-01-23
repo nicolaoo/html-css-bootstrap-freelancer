@@ -91,3 +91,8 @@ MAIN
     height: 3px;
     width: 150px;
 }
+
+.about .my-button {
+    background-color: var(--green);
+    border: 1px solid white;
+}
