@@ -96,3 +96,19 @@ MAIN
     background-color: var(--green);
     border: 1px solid white;
 }
+
+.contact-me .form-control {
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-radius: 0;
+    padding-left: 0;
+    padding-bottom: 1rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.contact-me .btn-success {
+    background-color: var(--green);
+    border: 0;
+}
