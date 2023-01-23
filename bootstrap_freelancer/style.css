@@ -59,9 +59,6 @@ MAIN
     background-color: var(--green);
 }
 
-.margin-bootstrap {
-    margin: 0 80px;
-}
 
 .icon-star::before{
     display: block;
