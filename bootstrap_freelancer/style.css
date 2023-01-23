@@ -100,3 +100,29 @@ MAIN
     background-color: var(--green);
     border: 0;
 }
+
+
+
+/**********
+ FOOTER
+***********/
+
+.location {
+    background-color: var(--greylight);
+}
+
+.copyright {
+    background-color: var(--grey)
+}
+
+.location i {
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 999px;
+    padding: 12px;
+    line-height: 25px;
+    aspect-ratio: 2;
+}
+
+.location a {
+    color: var(--green);
+}
